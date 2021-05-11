@@ -1,0 +1,33 @@
+#band, #tarts, #cookies {
+    width: 100%;
+    height: auto;
+}
+
+#logo {
+  width: 300px;
+}
+
+#home-button {
+  width: 300px;
+  height: auto;
+}
+
+#band {
+    width: 100%;
+    height: auto;
+}
+
+.img-with-text {
+    text-align: justify;
+    min-width: 200px;
+}
+
+.img-with-text img {
+    display: block;
+    margin: 0 auto;
+}
+
+.button-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}

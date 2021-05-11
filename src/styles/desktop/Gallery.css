@@ -1,0 +1,20 @@
+.gallery {
+  margin: 5px;
+  border: 3px solid #ccc;
+  max-width: 400px;
+}
+
+.gallery img {
+  width: 100%;
+  height: auto;
+  border: 1px solid #ccc;
+}
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;  
+}
+
+.desc {
+    font-size: 20px;
+}
